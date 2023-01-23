@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Page 1",
+        "content": "https://s1.cdn-manga.com/files/WP-manga/data/4088/041a9ce0237c10a7b89a8071e432c7e9/8.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Page 2",
+        "content": "https://s1.cdn-manga.com/files/WP-manga/data/4088/041a9ce0237c10a7b89a8071e432c7e9/7.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Page 3",
+        "content": "https://burst.shopifycdn.com/photos/person-holds-a-book-over-a-stack-and-turns-the-page.jpg?width=1200&format=pjpg&exif=0&iptc=0"
+    },
+    {
+        "id": 4,
+        "title": "Page 4",
+        "content": "https://s1.cdn-manga.com/files/WP-manga/data/4088/041a9ce0237c10a7b89a8071e432c7e9/8.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Page 5",
+        "content": "https://s1.cdn-manga.com/files/WP-manga/data/4088/041a9ce0237c10a7b89a8071e432c7e9/7.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Page 6",
+        "content": "https://burst.shopifycdn.com/photos/person-holds-a-book-over-a-stack-and-turns-the-page.jpg?width=1200&format=pjpg&exif=0&iptc=0"
+    },
+    {
+        "id": 7,
+        "title": "Page 7",
+        "content": "https://s1.cdn-manga.com/files/WP-manga/data/4088/041a9ce0237c10a7b89a8071e432c7e9/8.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Page 8",
+        "content": "https://s1.cdn-manga.com/files/WP-manga/data/4088/041a9ce0237c10a7b89a8071e432c7e9/7.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Page 9",
+        "content": "https://burst.shopifycdn.com/photos/person-holds-a-book-over-a-stack-and-turns-the-page.jpg?width=1200&format=pjpg&exif=0&iptc=0"
+    }
+]
